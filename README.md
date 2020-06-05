@@ -8,7 +8,7 @@ useful
  
  #2 Error 4058 while running npm start<br>
     <b>Solution</b>: I had created a 'my app folder' inside another 'my app folder', and my working directory was the first folder 
-    which didn't have a package.json file. I changed the  terminal directory to my  inner 'my app'folder. Complete Brainfreeze :D
+    which didn't have a package.json file. I changed the  terminal directory to my  inner 'my app'folder. Complete Brainfreeze :D<br>
  #3 Git push won't work<br>
     <b>Solution</b>: I had added the readme file directly from github hence it was absent from the local repository 
     so before pushing the made changes i need to get the file locally so i used <i>git pull</i> first got my 'readme.md' file and then again 
