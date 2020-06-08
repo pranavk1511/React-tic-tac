@@ -4,7 +4,8 @@ so dont come after me please . I am a complete beginner. Here are some problems 
 useful
  
  #1 using ctrl+S in 'index.js' file would disturb the indentaion of the file <br>
-    <b>Solution</b> : Disable beautify and reload Vs Code. Apparantely Beautify is not beautiful :P
+    <b>Solution</b> : Disable beautify and reload Vs Code. Apparantely Beautify is not beautiful :P. The orignal problem is with Linters.
+    Visit this link : shorturl.at/gwZ48
  
  #2 Error 4058 while running npm start<br>
     <b>Solution</b>: I had created a 'my app folder' inside another 'my app folder', and my working directory was the first folder 
